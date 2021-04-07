@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <div>SIN LOGUEAR (LANDING PAGE)</div>
+<div style="center">
+    LANDING PAGE - PRUEBA
+</div>
 @endsection
